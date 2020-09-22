@@ -1,0 +1,3 @@
+#!/bin/sh
+
+rm -f activity.png aerosol_dist.png aerosol_evol.png aerosol_removal_rates_vs_r.png mass_in_contain_air_el.txt temp_in_containment.txt mass_deposited_in_contain_el.txt pres_in_containment.txt act_in_containment_air_iso.txt act_deposited_in_containment.txt activity.txt mass_deposited_in_containment_iso.txt 

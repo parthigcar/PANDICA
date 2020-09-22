@@ -1,0 +1,4 @@
+NB  SimTime  dt
+200     18000  20
+d0        d1            dmed
+0.1       50             1

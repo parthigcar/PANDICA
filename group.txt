@@ -1,0 +1,13 @@
+Xe:He,Ne,Ar,Kr,Xe,H,N
+Cs:Li,Na,K,Rb,Cs,Fr,Cu
+Ba:Be,Mg,ca,Sr,Ba,Ra,Es,Fm
+I:F,Cl,I,Br,At
+Te:Os,Se,Te,Po
+Ru:Ru,Rh,Pd,Re,Os,Ir,Pt,Au,Ni
+Mo:V,Cr,Fe,Co,Mn,Nb,Mo,Tc,Ta,W
+Ce:Ti,Zr,Hf,Ce,Th,Pa,Np,Pu,C
+La:Al,Sc,Y,La,Ac,Pr,Nd,Pm,Sm,Eu,Gd,Tb,Dy,Ho,Er,Tm,Yb,Lu,Am,Cm,Bk,Cf
+U:U
+Cd:Cd,Hg,Zn,As,Sb,Pb,Tl,Bi
+Sn:Sn,Ga,Ge,In,Ag
+B:B,Si,P
